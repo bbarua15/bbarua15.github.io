@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"keywords": [
+		"freecodecamp",
+		"microservice",
+		"guide"
+	],
+	"author": "Badhan Barua",
+	"license": "MIT",
+	"version": "1.0.0",
+	"description": "Learning Node",
+	"dependencies": {
+		"express": "4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
